@@ -1,0 +1,5 @@
+/ClassificationTask/data/
+**/data/
+/data/
+*.pth
+*.gz
